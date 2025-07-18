@@ -1,0 +1,18 @@
+# Core dependencies for 6DRepNet360
+torch>=1.8.0
+torchvision>=0.9.0
+numpy>=1.19.0
+opencv-python>=4.5.0
+Pillow>=8.0.0
+scipy>=1.6.0
+pandas>=1.2.0
+matplotlib>=3.3.0
+
+# Optional but recommended for development
+jupyter
+ipython
+tqdm
+
+# For CUDA support (uncomment if you have CUDA-capable GPU)
+# torch+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
+# torchvision+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
