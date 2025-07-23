@@ -22,7 +22,7 @@ This is a PyTorch implementation of 6DRepNet360 specified in
 
 ## Usage
 
-I Can't Wait.
+For usage instructions, please refer to the README.md in the example directory.
 
 ## **Citing**
 
