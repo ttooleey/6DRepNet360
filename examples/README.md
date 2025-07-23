@@ -18,7 +18,7 @@ A comprehensive Jupyter notebook that demonstrates:
    pip install -r requirements.txt
    ```
 
-2. Run the notebook:
+2. Run the notebook OR click Running a cell repeatedly:
    ```bash
    jupyter notebook examples/example.ipynb
    ```
